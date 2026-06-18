@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# Environment Files
+.env
+
+# Build Files
+dist
+build
+
+# Logs
+*.log
+
+# Docker
+mongo-data
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Vite
+.vite
